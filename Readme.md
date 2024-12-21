@@ -5,6 +5,8 @@ The Social Learning Tournament is a decentralized platform designed to motivate 
 
 ## Contract Address
 0xc076a8cb3e7dc6b9fba478540fa6f86d1c4c553b
+![image](https://github.com/user-attachments/assets/f60fbb62-a036-4b1a-962b-75a7208da08b)
+
 
 ## Project Vision
 The vision of this project is to create a blockchain-based platform that merges education and competition. By incentivizing learning through rewards, we aim to foster a community where individuals are motivated to enhance their skills in a competitive yet engaging manner.
